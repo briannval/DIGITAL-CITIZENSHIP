@@ -1,0 +1,12 @@
+Libraries used
+- replit
+- pandas
+- random
+- time
+- datetime
+- colorama
+
+Features
+- Quiz
+- Game
+- Data

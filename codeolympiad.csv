@@ -1,0 +1,50 @@
+Name,Age,Gender,Height,Weight,HeartRate,School,SchoolLocation,HoursStudy,FavShopping,HoursShopping,PreferOnline,FavGenre,FavAirline,BMI,BMICondition,HeartRateCondition
+Liam,10,M,1.5,30,60,SMAN 8,Jakarta,2,Shopee,3,Y,Action,Qatar,13,underweight,normal for most people
+Noah,8,M,1.2,20,70,SMAK 1,Bogor,3,Shopee,4,Y,Action,Qatar,13,underweight,normal for most people
+Kate,9,F,1.8,20,90,SMA BBS,Tangerang,4,Shopee,5,N,Action,Qatar,6,underweight,in high risk territory
+Bruce,21,M,1.2,60,30,SMA IPEKA,Jakarta,4,Shopee,6,N,Action,Qatar,41,extremely obese,unusually low
+Alexander,18,M,1.3,70,40,SMA IPEKA,Jakarta,1,Shopee,2,Y,Action,Qatar,41,extremely obese,normal if you are athletic
+Jessica,17,F,1.4,60,60,SMA IPEKA INTER,Jakarta,5,Shopee,3,N,Action,Qatar,30,obese,normal for most people
+Olivia,40,F,1.7,50,110,SMAK 4,Jakarta,5,Shopee,5,Y,Action,Qatar,17,underweight,in extremely high danger
+Olivander,15,M,1.8,50,70,SMAK 4,Jakarta,5,Shopee,1,N,Drama,Qatar,15,underweight,normal for most people
+Alicia,12,F,1.9,30,80,SMAK 4,Jakarta,10,Shopee,4,Y,Drama,Qatar,8,underweight,normal for most people
+Johnny,17,M,1.4,40,50,SMAK 4,Jakarta,2,Shopee,5,Y,Drama,Qatar,20,fit,normal for most people
+Phillip,35,M,1.2,50,35,SMAK 4,Jakarta,5,Shopee,7,Y,Drama,Qatar,34,obese,normal if you are athletic
+Bobby,44,M,1.2,70,40,SMA BBS,Bogor,5,Shopee,8,N,Drama,Cathay,48,extremely obese,normal if you are athletic
+Louis,45,M,1.1,70,60,SMA BBS,Bogor,3,Shopee,4,N,Drama,Cathay,57,extremely obese,normal for most people
+Kayla,39,F,1.5,30,75,SMA BBS,Bogor,4,Shopee,6,Y,Drama,Cathay,13,underweight,normal for most people
+Alexis,31,F,1.7,50,75,SMA BBS,Bogor,2,Shopee,3,N,Comedy,Cathay,17,underweight,normal for most people
+Rose,29,F,1.8,50,75,SMA BBS,Bogor,3,Shopee,4,Y,Comedy,Cathay,15,underweight,normal for most people
+Charlotte,8,F,1.9,20,95,SMA BBS,Bogor,6,Shopee,5,N,Comedy,Cathay,5,underweight,in high risk territory
+Isabella,10,F,2,20,85,SMA BBS,Bogor,4,Shopee,2,Y,Comedy,Cathay,5,underweight,normal for most people
+Natalie,11,F,1.1,20,35,SMA BBS,Bogor,5,Shopee,8,Y,Comedy,Cathay,16,underweight,normal if you are athletic
+Britanny,22,F,1.3,50,40,SMA BBS,Bogor,2,Shopee,9,N,Comedy,Cathay,29,overweight,normal if you are athletic
+Sophie,23,F,1.4,100,55,SMA BBS,Bogor,3,Shopee,5,N,Comedy,Cathay,51,extremely obese,normal for most people
+Maria,24,F,1.7,40,70,SMA Tiara Kasih,Tangerang,5,Shopee,5,Y,Comedy,Cathay,13,underweight,normal for most people
+Teresa,13,F,1.8,40,70,SMA Tiara Kasih,Tangerang,3,BliBli,5,Y,Comedy,Cathay,12,underweight,normal for most people
+Daniella,48,F,1.3,60,70,SMA Tiara Kasih,Tangerang,10,BliBli,4,Y,Horror,Cathay,35,extremely obese,normal for most people
+Elijah,47,M,1.4,70,70,SMA Tiara Kasih,Tangerang,9,BliBli,2,N,Horror,ANA,35,extremely obese,normal for most people
+Russel,45,M,1.6,50,80,SMA Tiara Kasih,Tangerang,8,BliBli,2,N,Horror,ANA,19,fit,normal for most people
+Vincent,45,M,1.2,90,80,SMA Tiara Kasih,Tangerang,7,BliBli,1,N,Horror,ANA,62,extremely obese,normal for most people
+Eugene,46,M,1.1,90,80,SMA Tiara Kasih,Tangerang,4,BliBli,2,Y,Horror,ANA,74,extremely obese,normal for most people
+Randy,45,M,1.3,30,35,SMA Tiara Kasih,Tangerang,5,BliBli,2,Y,Horror,ANA,17,underweight,normal if you are athletic
+Ralph,43,M,1.4,80,40,SMA Tiara Kasih,Tangerang,6,BliBli,1,Y,Horror,ANA,40,extremely obese,normal if you are athletic
+Roy,42,M,1.7,60,35,SMA Tiara Kasih,Tangerang,7,BliBli,3,Y,Horror,ANA,20,fit,normal if you are athletic
+Wayne,12,M,1.8,30,35,SMA Tiara Kasih,Tangerang,8,BliBli,4,N,Horror,ANA,9,underweight,normal if you are athletic
+Beverly,10,F,1.9,30,35,SMAK 4,Bekasi,9,BliBli,2,N,Horror,ANA,8,underweight,normal if you are athletic
+Marilyn,8,F,1.2,20,45,SMAK 4,Bekasi,10,BliBli,3,N,Horror,Emirates,13,underweight,normal if you are athletic
+Amber,10,F,1.1,30,45,SMAK 4,Bekasi,4,BliBli,1,N,Horror,Emirates,24,fit,normal if you are athletic
+Denise,17,F,1.4,60,45,SMAK 4,Bekasi,3,BliBli,5,Y,Thriller,Emirates,30,obese,normal if you are athletic
+Grace,16,F,1.1,50,50,SMAK 4,Bekasi,3,Tokopedia,6,Y,Thriller,Emirates,41,extremely obese,normal for most people
+Judy,22,F,1.5,60,60,SMAK 4,Bekasi,2,Tokopedia,6,Y,Thriller,Garuda,26,overweight,normal for most people
+Julia,27,F,1.6,70,70,SMAK 4,Bekasi,6,Tokopedia,7,Y,Thriller,Garuda,27,overweight,normal for most people
+Jesse,30,M,1.5,50,75,SMA Tiara Kasih,Bekasi,4,Tokopedia,4,Y,Thriller,Garuda,22,fit,normal for most people
+Dylan,9,M,1.1,20,85,SMAN 4,Bekasi,5,Tokopedia,3,N,Thriller,Garuda,16,underweight,normal for most people
+Bryan,23,M,1.5,60,50,SMAK 4,Bekasi,3,Tokopedia,2,N,Thriller,Garuda,26,overweight,normal for most people
+Joe,49,M,1.3,60,60,SMA Tiara Kasih,Bekasi,3,Tokopedia,1,N,Thriller,Garuda,35,extremely obese,normal for most people
+Jordan,15,M,1.6,30,40,SMAK 4,Bekasi,2,Tokopedia,1,N,Thriller,British,11,underweight,normal if you are athletic
+Jilly,16,M,1.6,30,40,SMAK 4,Bekasi,6,Tokopedia,1,N,Romance,Asia,11,underweight,normal if you are athletic
+Willie,18,M,1.7,60,40,SMAK 4,Depok,7,Tokopedia,1,Y,Adventure,Lion,20,fit,normal if you are athletic
+Albert,40,M,1.3,70,80,SMAK 4,Depok,8,Tokopedia,3,Y,Mystery,Lion,41,extremely obese,normal for most people
+Logan,20,M,1.5,100,90,SMAK 4,Depok,2,Tokopedia,3,N,Mystery,Lion,44,extremely obese,in high risk territory
+Alan,10,M,1.6,20,90,SMAK 4,Depok,5,Tokopedia,3,N,Adventure,Lion,7,underweight,in high risk territory
